@@ -1,5 +1,5 @@
 
-# 📘 TypeScript Interview Blogs
+# 📘 TypeScript Blogs
 
 ---
 
@@ -70,7 +70,7 @@ const anotherValue: StringOrNumber = 42; // valid
 
 ### 🚀 **Key Distinctions Between Interfaces and Types**
 
-Both can define object shapes-let’s look at  **key differences**:
+Both can define object shapes- let’s look at  **key differences**:
 
 ---
 
